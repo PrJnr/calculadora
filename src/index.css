@@ -5,7 +5,8 @@ body {
   align-items: center; /*Alinhamento Vertical*/
   text-align: center;
 
-  color: #fff;
+
+  color: black;
   background: linear-gradient(to right, rgb(232, 203, 192), rgb(99, 111, 164));
 
 }

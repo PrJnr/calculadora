@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Calculator from './main/Calculator.jsx';
 import * as serviceWorker from './serviceWorker';
-
+import Button from './components/Button'
 ReactDOM.render(
   <React.StrictMode>
     <div>
-      <h1>Calculadora Pastel</h1>
+    
     <Calculator />
     </div>
     

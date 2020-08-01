@@ -1,7 +1,15 @@
-.calculator {
-    height: 320px; 
-    width: 235px;
-    border-radius: 3px;
-    overflow: hidden; /*Tudo oque estiver fora da calculadora fica oculto*/
-    background-color: rgb(91, 0, 114); 
+  
+    .calculator {
+            height: 320px; 
+            width: 235px;
+            border-radius: 3px;
+            overflow: hidden; /*Tudo oque estiver fora da calculadora fica oculto*/
+             
+            display: grid
+        }
+
+.corpo {
+    color: white;
+    align-items: center;
 }
+
