@@ -3,7 +3,7 @@
 Aplicação WEB - com REACT 
 
 <h1 align="center">
-    <img alt="Calculadora" src="./img/logo.png"  />
+    <img alt="Calculadora" src="./src/img/logo.png"  />
 </h1>
 
 
