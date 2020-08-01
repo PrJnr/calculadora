@@ -6,8 +6,8 @@ import Button from '../components/Button'
 export default class Calculator extends Component {
     render(){
         return (
-            <div className="corpo">
-                <h1>Calculadora </h1>
+           
+              
                 <div className="calculator">
                     <Button label="AC"/>
                     <Button label="/"/>
@@ -29,7 +29,7 @@ export default class Calculator extends Component {
                     
                 </div>
                 
-            </div>
+            
         )
     }
 }

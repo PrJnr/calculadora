@@ -2,14 +2,13 @@
     .calculator {
             height: 320px; 
             width: 235px;
-            border-radius: 3px;
+            border-radius: 6px;
             overflow: hidden; /*Tudo oque estiver fora da calculadora fica oculto*/
              
-            display: grid
+            display: grid;
+            grid-template-columns: repeat(4, 25%);
+            grid-template-rows: 48px 48px 48px 48px 48px;
+    
         }
 
-.corpo {
-    color: white;
-    align-items: center;
-}
 
