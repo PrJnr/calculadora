@@ -1,5 +1,10 @@
+
 # Calculadora
 Aplicação WEB - com REACT 
+
+<h1 align="center">
+    <img alt="Calculadora" src="img/logo.png" width="200px" />
+</h1>
 
 
 ## Sobre a aplicação
